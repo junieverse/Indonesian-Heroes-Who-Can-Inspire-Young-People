@@ -1,20 +1,36 @@
 body {
-    background-color: #e7e7e7;
-    font-family: sans-serif;
-    padding-bottom: 30px;
-    padding: 0px 5% 30px;
+    margin: 0;
+    background-image: url("https://i.pinimg.com/736x/81/03/45/810345bfda201c1c5536e15c27b8717b.jpg");
+    width: auto;
+    height: auto;
+    background-color: lightskyblue;
 }
 
 h1 {
-    font-family: monospace;
+	font-family: inherit;
+	font-size: 54px;    
     text-align: center;
-    font-size: 30px;
-  
+     color: #433718;
 }
 
 h2 {
-    font-family: monospace;
+	font-family: inherit;
+	color: darkseagreen;
+	text-align: center;
+	margin: 0;
 }
+
+h3 {
+	color: darkorange;
+	font-size: 42px;
+	text-align: center;
+	margin: 0;
+}
+
+p {
+   
+	font-family: monospace;  
+	color: #433718;
 
 img {
     width: 250px;
